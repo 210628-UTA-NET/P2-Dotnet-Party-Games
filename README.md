@@ -63,7 +63,7 @@ https://p2partygames.azurewebsites.net/
   - Serilog
   - socket.io
 - DevOps
-  - Sonarcoud
+  - Sonarcloud
   - Github Actions
   - Azure App Service
   - Heroku
